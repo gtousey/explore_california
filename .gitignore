@@ -1,0 +1,8 @@
+# This is a gitignore file
+tempfile.txt
+.DS_STORE
+*.zip
+*.gz
+log/*.log
+log/*log.[0-9]
+assets/images/
